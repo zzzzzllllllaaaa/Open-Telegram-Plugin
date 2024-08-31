@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-open-telegram-plugin",
+  "name": "Open Telegram Plugin",
+  "version": "1.0.1",
+  "minAppVersion": "0.12.0",
+  "description": "在obsidian打开telegram链接时直接从应用打开",
+  "author": "3zh2",
+  "authorUrl": "https://www.zhzhzh.fun",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "obsidian-open-telegram-plugin",
+  "version": "1.0.0",
+  "description": "A plugin to open Telegram links in the Telegram app.",
+  "main": "main.js",
+  "scripts": {
+      "build": "tsc"
+  },
+  "devDependencies": {
+      "obsidian": "^0.12.0",
+      "typescript": "^4.0.0"
+  }
+}
