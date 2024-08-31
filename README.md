@@ -1,1 +1,1 @@
-# Open-Telegram-Plugin
+这是一个obsidian插件，在obsidian打开telegram链接时直接从应用打开
